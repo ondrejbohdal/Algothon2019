@@ -1,0 +1,18 @@
+categ_metrics = {}
+categ_metrics['SMA_FBUP']=['type', 'sentiment']
+
+categ_metrics['SMA_TWTT']=[]
+
+categ_metrics['SMA_YTCD']=[]
+
+categ_metrics['SMA_FBP']=['type', 'sentiment']
+
+categ_metrics['SMA_TWTD']=[]
+
+categ_metrics['SMA_INSP']=['type']
+
+categ_metrics['SMA_INSD']=[]
+
+categ_metrics['SMA_FBD']=[]
+
+categ_metrics['SMA_YTVD']=[]
